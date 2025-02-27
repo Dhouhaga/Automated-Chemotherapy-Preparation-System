@@ -1,7 +1,7 @@
 # End of study project: <br> Chemotherapy-Preparation-Robot (CPR)
 
 > Created by [Dhouha GAOUD].
-Proposed by ASQII and supervised by Prof. Kamel ECHAIEB.
+Proposed by ASQII and supervised by Prof. Chiheb Ameur ABID.
 
 ## Context
 
