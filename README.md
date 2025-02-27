@@ -11,9 +11,9 @@ This project was developed as part of my end-of-study requirements in Computer E
 This repository contains a high-level overview, key features, and general information about the system’s design and implementation, without sharing proprietary source code or details.
 
 ## Key Features
-Automated Dosage Preparation: Ensures precise dosage measurements through controlled mechanisms, minimizing human error.  
-Real-Time Monitoring: Provides continuous monitoring for accuracy and safety during preparation.  
-User Interaction Interface: Includes an intuitive interface designed for ease of use by healthcare professionals.
+### Automated Dosage Preparation: Ensures precise dosage measurements through controlled mechanisms, minimizing human error.  
+### Real-Time Monitoring: Provides continuous monitoring for accuracy and safety during preparation.  
+### User Interaction Interface: Includes an intuitive interface designed for ease of use by healthcare professionals.
 
 ## Technologies Used
 - Programming Languages: Python, C++  
