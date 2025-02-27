@@ -24,7 +24,7 @@ Project Type: Embedded System, IoT, Automation
 ## System Architecture (General Overview)
 The system is composed of a control unit based on Raspberry Pi 4, which interacts with motors and sensors to handle dosage preparation. A web-based dashboard, built using Flask, provides real-time monitoring and user controls. The setup uses OCR for verification and accuracy in drug identification.
 
-> [!NOTE] >  Specific architectural diagrams and source code are not included to maintain confidentiality.
+>>  Specific architectural diagrams and source code are not included to maintain confidentiality.
 
 ## Disclaimer
 Due to confidentiality agreements with ASQII, this repository provides an overview of the project without disclosing proprietary details or code.
