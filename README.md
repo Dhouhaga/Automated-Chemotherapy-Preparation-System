@@ -1,6 +1,6 @@
 # End of study project: <br> Automated-Chemotherapy-Preparation-System
 
-> Created by [Dhouha GAOUD].
+> Created by Dhouha GAOUD.
 Proposed by ASQII and supervised by Prof. Chiheb Ameur ABID.
 
 
